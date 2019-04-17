@@ -1,4 +1,6 @@
-This adds graphframes support and the Neo4j Driver to the pyspark-notebook container.
+= Jupyter + Spark + GraphFrames + Neo4j
+
+This adds graphframes support and the Neo4j Driver to the https://hub.docker.com/r/jupyter/pyspark-notebook/[jupyter/pyspark-notebook^] image.
 
 It's quite hacky because all the clean ways I tried totally didn't work.
 
