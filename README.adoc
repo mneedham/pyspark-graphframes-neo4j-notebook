@@ -1,0 +1,5 @@
+This adds graphframes support and the Neo4j Driver to the pyspark-notebook container.
+
+It's quite hacky because all the clean ways I tried totally didn't work.
+
+You can grab it from Docker Hub - https://cloud.docker.com/u/markhneedham/repository/docker/markhneedham/pyspark-graphframes-neo4j-notebook
